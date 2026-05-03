@@ -1,7 +1,6 @@
 ## Hello World 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=200&pause=1000&color=00F749&background=FFFFFF00&center=true&width=700&lines=Salut%2C+les+amis+c'est+Zishan+!;J'ai+une+blague+%C3%A0+vous+raconter.;Ou+deux+%3F+;%F0%9F%8C%91+Pourquoi++Minjha+pr%C3%A9f%C3%A8rent+le+dark+mode+%3F;Parce+que+la+lumi%C3%A8re+attire+les+bugs.;Faut+%C3%AAtre+anglophone+pour+la+comprendre+!+;Another+One+%3F;%F0%9F%9B%92+Camille+va+faire+les+courses.;+++Sa+femme+dit+%3A+%22ram%C3%A8ne+un+litre+de+lait%2C;+++et+si+y'a+des+%C5%93ufs%2C+prends-en+6%22;+++Il+revient+avec+6+litres+de+lait;+++Y'avait+des+%C5%93ufs.;Celle+%C3%A7i+faut+%C3%AAtre+allemand+pour+la+comprendre+!)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rajdhani&weight=200&pause=1000&color=00F749&background=FFFFFF00&center=true&width=700&lines=Salut%2C+les+amis+c'est+Zishan+!;J'ai+une+blague+%C3%A0+vous+raconter.;Ou+deux+%3F+;%F0%9F%8C%91+Pourquoi++Minjha+pr%C3%A9f%C3%A8rent+le+dark+mode+%3F;Parce+que+la+lumi%C3%A8re+attire+les+bugs.;Faut+%C3%AAtre+anglophone+pour+la+comprendre+!+;Another+One+%3F;%F0%9F%9B%92+Camille+va+faire+les+courses.;+++Sa+femme+dit+%3A+%22ram%C3%A8ne+un+litre+de+lait%2C;+++et+si+y'a+des+%C5%93ufs%2C+prends-en+6%22;+++Camille+revient+avec+6+litres+de+lait;+++Y'avait+des+%C5%93ufs.;Celle+%C3%A7i+faut+%C3%AAtre+allemand+pour+la+comprendre+!)](https://git.io/typing-svg)
 
 
 
