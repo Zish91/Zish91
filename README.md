@@ -5,8 +5,7 @@
 
 ![Snake](https://github.com/Zish91/Zish91/blob/output/github-contribution-grid-snake-dark.svg)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zish91&theme=github-compact)
-
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Zish91&theme=github-compact&area=true)
 <!--
 **Zish91/Zish91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
